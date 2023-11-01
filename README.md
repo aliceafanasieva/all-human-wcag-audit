@@ -112,6 +112,15 @@ De plaatje op achtergrond wordt vertoond als "unlabeled image".
 
 Om tekst om website voor te lezen moet de user van VoiceOver drukken op de plek waar de tekst staat, anders wordt het niet voorlezen. Op dat manier heeft een blinde gebruiker geen idee waar die op moet drukken en nog steeds blijft veel website content niet zichtbaar. De VoiceOver blijft zelf alleen de menu voor te lezen, kleine tekst in de menu, naam van pagina's, links onderaan de website. 
 
+**Interactive elements Test**
+
+De buttons in de menu container bovenaan de website hebben een `#f4e72a` hover als een indicator dat ze interactief zijn. De rest van de verborgen links bevatten geen hovers en dus geen indicatoren dat de elementen interactief zijn. 
+
+<img width="397" alt="image" src="https://github.com/aliceafanasieva/all-human-wcag-audit/assets/66431299/64326f10-572a-4819-99f7-779476311c1d">
+
+**Headings and landmarks Test**
+
+Er wordt wel gebruik gemaakt van HTML hiërarchie, dus body, header, main, footer komen na elkaar. 
 
 ## Licentie
 
